@@ -1,0 +1,18 @@
+[
+  {
+    "CourseNumber": "B004",
+    "Title": "C# och .NET f\u00F6r nyb\u00F6rjare",
+    "DurationDays": 5,
+    "StartDate": "2024-06-01T00:00:00",
+    "EndDate": "2024-06-05T00:00:00",
+    "Type": "Distance"
+  },
+  {
+    "CourseNumber": "B001",
+    "Title": "Databas intro",
+    "DurationDays": 5,
+    "StartDate": "2025-05-01T00:00:00",
+    "EndDate": "2025-05-06T00:00:00",
+    "Type": "Classroom"
+  }
+]
